@@ -1,0 +1,69 @@
+ 
+
+
+body{
+    background-color: rgb(88, 117, 117);
+   
+    
+     background-image: url(https://media.istockphoto.com/id/1049365996/photo/rain-fall-on-the-ground.jpg?b=1&s=612x612&w=0&k=20&c=l_KwZmkf6odhCd7wCbgxwv1PSsSoZSUwOUuJ_n8vXXc=);
+     background-repeat: no-repeat;
+     background-size: cover; 
+     
+}
+input{
+    height: 20px;
+    width: 30%;
+    border-radius: 10px;
+}
+ button{
+    height: 26px;
+    width: 5%;
+    border-radius: 5px;
+    font-size: 10px; 
+ } 
+.widget{
+    margin:auto;
+    height: 400px;
+    width: 400px;
+   color: lightcyan;
+    flex-wrap: wrap;
+    align-items: center;
+    border: 4px solid rgb(12, 12, 12);
+    border-radius: 10px;
+    box-shadow: black;
+    background-color: rgb(86, 152, 152);
+    
+} 
+ 
+
+
+
+ body{
+    height: 657px;
+    width: 100%;
+     background-color: skyblue;
+     
+}
+input{
+    height: 20px;
+    width: 30%;
+    border-radius: 10px;
+}
+button{
+    height: 26px;
+    width: 5%;
+    border-radius: 5px;
+}
+img{
+   background: transparent;
+}
+.cards{
+    margin:auto;
+    height: 300px;
+    width: 400px;
+    flex-wrap: wrap;
+    align-items: center;
+    border: 4px solid red;
+    border-radius: 10px;
+    
+} 
